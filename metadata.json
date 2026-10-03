@@ -1,0 +1,6 @@
+{
+  "name": "Serte AI",
+  "description": "Plataforma inteligente de fitness, movimento, saúde e bem-estar baseada em inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
